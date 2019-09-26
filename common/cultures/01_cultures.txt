@@ -1,98 +1,274 @@
-freljordian = {
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+freljordian = { #Harsh Frozen Land
 	graphical_culture = inuitgfx
 	second_graphical_culture = wersterngfx
 
 	avarosan = { #Ashe
+		primary = TAG
+
+		male_names = {
+			Tryndamere Braum Gragas
+		}
+		female_names = {
+			Ashe
+		}
 
 	}
 
 	iceborn = { #Lissandra
+		primary = TAG
 
+		male_names = {
+			Nunu
+		}
+		female_names = {
+			Lissandra
+		}
 	}
 
 	seryldian = { #Sejuani
+		primary = TAG
 
+		male_names = {
+			Olaf Udyr
+		}
+		female_names = {
+			Sejuani			
+		}
+	}
+
+	troll = {
+		primary = TAG
+
+
+		male_names = {
+			Trundle
+		}
+		female_names = {
+						
+		}
 	}
 }
 
-demacian_group = { #United under one culture
+demacian_group = { #Proud Military Kingdom
 	graphical_culture = westerngfx
 
 	demacian = {
+		primary = TAG
 
+
+		male_names = {
+			Garen Jarvan Lucian "Xin Zhao" Galio Sylas
+		}
+		female_names = {
+			Sona Lux Fiora Poppy Quinn Shyvana Vayne Kayle Morgana
+		}
 	}
 }
 
-noxian = {
+noxian = { #Brutal Expansionist Empire
 	graphical_culture = westerngfx
-	
-	noxan_prime = { #Capital Region
 
+	noxan_prime = { #Capital Region
+		primary = TAG
+
+		male_names = {
+			Sion Swain Talon Vladimir 
+		}
+		female_names = {
+			Cassiopeia Katarina LeBlanc Elise
+		}
 	}
 
 	south_eastern_noxian = { #Piltover
+		primary = TAG
 
+		male_names = {
+
+		}
+		female_names = {
+			Riven
+		}
 	}
 
 	nothern_noxian = { #Mountain Areas
+		primary = TAG
 
+		male_names = {
+			Darius Draven Kled
+		}
+		female_names = {
+			
+		}
 	}
 
 	southern_noxian = { #Demacia
+		primary = TAG
 
+		male_names = {
+
+		}
+		female_names = {
+			
+		}
 	}
 }
 
-ionian = {
+ionian_group = { #The First Lands
 	graphical_culture = asiangfx
 	second_graphical_culture = easterngfx
 
+	ionian = { #Nameholder for implementation of names
+		primary = TAG
+
+		male_names = {
+			Kayn Jhin Varus Ivern
+		}
+		female_names = {
+			Irelia Karma Syndra	
+		}
+	}
+
+	ninja = { #Ninjas
+		primary = TAG
+
+		male_names = {
+			Yasuo Kennen "Lee Sin" Yi Shen Zed
+		}
+		female_names = {
+			Akali	
+		}
+	}
+
+	vastaya = { #Animal People
+		primary = TAG
+
+		male_names = {
+			Rakan Wukong
+		}
+		female_names = {
+			Xayah Ahri Neeko
+		}
+	}
+
 }
 
-minor_nations = { #needs actual good name
+island_nations = { #Nameholder for implementation of cultures
 	graphical_culture = westerngfx
 
-	bilgewater = {
+	bilgewater = { #Lawless Port City
+		primary = TAG
 
+		male_names = {
+			Fizz Gankplank Graves Nautilus Pyke "Tahm Kench" "Twisted Fate"
+		}
+		female_names = {
+			Illaoi "Miss Fortune"
+		}
 	}
 
-	death = { #Shadow Isle
+	death = { #Shadow Isle - Lands Shrouded by the Black Mist
+		primary = TAG
 
-	}
-
-	piltover = {
-	
-	}
-
-	zaunite = {
-
+		male_names = {
+			Hecarim Karthus Thresh Mordekasier Yorick Maokai
+		}
+		female_names = {
+			Kalista Elise
+		}
 	}
 }
 
-shurima = {
+dual_citystates = {
+	graphical_culture = westerngfx
+
+	piltover = { #Thriving Coastal City
+		primary = TAG
+
+		male_names = {
+			Ezreal Jayce Heimerdinger
+		}
+		female_names = {
+			Camille Caitlyn Orianna Vi
+		}
+	}
+
+	zaunite = { #Polluted Undercity
+		primary = TAG
+
+		male_names = {
+			Ekko Twitch Blitzcrank "Dr. Mundo" Singed Urgot Viktor Warwick Zac Ziggs
+		}
+		female_names = {
+			Jinx Janna
+		}
+	}
+}
+
+shurima = { #Fallen Desert Empire
 	graphical_culture = muslimgfx
 	second_graphical_culture = africangfx
 
 	ancient = { #Azir
-	
+		primary = TAG
+
+		male_names = {
+			Amumu Azir Nasus Rammus Renekton Skarner Xerath Rengar	
+		}
+		female_names = {
+			Sivir Taliyah Kai'Sa Nidalee Neeko Zyra
+		}
 	}
 }
 
-ixtal = {
+ixtal = { #Perilous Eastern Jungles
 	graphical_culture = southamericagfx
 	second_graphical_culture northamericangfx
+
+	ix = { #Nameholder for implementation of names
+		primary = TAG
+
+		male_names = {
+			Malphite Rengar
+		}
+		female_names = {
+			Neeko Zyra Nidalee Qiyana
+		}
+	}
 
 }
 
 celestial = {	
-	targonian = {
+	targonian = { #Sprawling Western Mountains
 		graphical_culture = easterngfx	
+		primary = TAG
 
+		male_names = {
+			Pantheon "Aurelion Sol" Taric
+		}
+		female_names = {
+			Leona Diana Zoe Soraka
+		}
 	}
 
 	void = {
 		graphical_culture = muslimgfx
 		second_graphical_culture = africangfx
-	
+		primary = TAG
+
+		male_names = { The Unknowable Nothingness
+			Cho'Gath Kassadin Kha'Zix Kog'Maw Malzahar Rek'Sai Vel'Koz
+		}
+		female_names = {
+			Kai'Sa
+		}
 	}
 }
