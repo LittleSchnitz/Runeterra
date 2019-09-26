@@ -1,0 +1,82 @@
+freljordian = {
+	avarosan = { #Ashe
+
+	}
+
+	iceborn = { #Lissandra
+
+	}
+
+	seryldian = { #Sejuani
+
+	}
+}
+
+demacian_group = { #United under one culture
+	graphical_culture = westerngfx
+
+	demacian = {
+
+	}
+}
+
+noxian = {
+	noxan_prime = { #Capital Region
+
+	}
+
+	south_eastern_noxian = { #Piltover
+
+	}
+
+	nothern_noxian = { #Mountain Areas
+
+	}
+
+	southern_noxian = { #Demacia
+
+	}
+}
+
+ionian = {
+	graphical_culture = asiangfx
+
+}
+
+minor_nations = { #needs actual good name
+	bilgewater = {
+
+	}
+
+	death = { #Shadow Isle
+
+	}
+
+	piltover = {
+	
+	}
+
+	zaunite = {
+
+	}
+}
+
+shurima = {
+	ancient = { #Azir
+	
+	}
+}
+
+ixtal = {
+
+}
+
+celestial = {
+	targonian = {
+
+	}
+
+	void = {
+	
+	}
+}
