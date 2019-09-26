@@ -1,4 +1,7 @@
 freljordian = {
+	graphical_culture = inuitgfx
+	second_graphical_culture = wersterngfx
+
 	avarosan = { #Ashe
 
 	}
@@ -21,6 +24,8 @@ demacian_group = { #United under one culture
 }
 
 noxian = {
+	graphical_culture = westerngfx
+	
 	noxan_prime = { #Capital Region
 
 	}
@@ -40,10 +45,13 @@ noxian = {
 
 ionian = {
 	graphical_culture = asiangfx
+	second_graphical_culture = easterngfx
 
 }
 
 minor_nations = { #needs actual good name
+	graphical_culture = westerngfx
+
 	bilgewater = {
 
 	}
@@ -62,21 +70,29 @@ minor_nations = { #needs actual good name
 }
 
 shurima = {
+	graphical_culture = muslimgfx
+	second_graphical_culture = africangfx
+
 	ancient = { #Azir
 	
 	}
 }
 
 ixtal = {
+	graphical_culture = southamericagfx
+	second_graphical_culture northamericangfx
 
 }
 
-celestial = {
+celestial = {	
 	targonian = {
+		graphical_culture = easterngfx	
 
 	}
 
 	void = {
+		graphical_culture = muslimgfx
+		second_graphical_culture = africangfx
 	
 	}
 }
