@@ -1,0 +1,6 @@
+government = 
+#add_government_reform = 
+primary_culture = norther_noxian
+religion =
+technology_group = 
+capital = 

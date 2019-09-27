@@ -227,6 +227,16 @@ shurima = { #Fallen Desert Empire
 			Sivir Taliyah Kai'Sa Nidalee Neeko Zyra
 		}
 	}
+	raider = { #Shakkal
+		primary = TAG
+
+		male_names = {
+
+		}
+		female_names = {
+
+		}
+	}
 }
 
 ixtal = { #Perilous Eastern Jungles
