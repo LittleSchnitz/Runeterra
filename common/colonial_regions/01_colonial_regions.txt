@@ -1,0 +1,41 @@
+#Isle to the West
+colonial_west = {
+	color = { 225 225 225 }
+
+	# Random New World
+	tax_income = 2
+	native_size = 5
+	native_ferocity = 2
+	native_hostileness = 3
+
+	trade_goods = {
+		gold = 100
+	}
+
+	culture = {
+		avarosan = 20
+		demacian = 10
+	}
+
+	religion = {
+		
+	}
+
+	provinces = {
+
+	}
+
+	#Specific
+	names = {
+		trigger = {
+			culture_group = freljordian
+		}
+		name = "COLONIAL_WEST_Colonial_Freljord"
+	}
+	names = {
+		trigger = {
+			culture_group = demacian
+		}
+		name = "COLONIAL_WEST_Colonial_Demacia"
+	}
+}
