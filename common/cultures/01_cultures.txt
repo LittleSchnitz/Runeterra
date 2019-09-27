@@ -77,7 +77,7 @@ demacian_group = { #Proud Military Kingdom
 noxian = { #Brutal Expansionist Empire
 	graphical_culture = westerngfx
 
-	noxan_prime = { #Capital Region
+	noxian_prime = { #Capital Region
 		primary = TAG
 
 		male_names = {
