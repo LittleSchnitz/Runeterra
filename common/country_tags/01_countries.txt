@@ -1,0 +1,33 @@
+# Special countries..
+#REB = "countries/Rebels.txt"
+#PIR = "countries/Pirates.txt"
+#NAT = "countries/Natives.txt"
+
+# Freljord
+AVA = "countries/Avarosa.txt"
+FRE = "countries/Freljord.txt"
+HEB = "countries/Hearthborne.txt"
+FRO = "countries/Frostguard.txt"
+SER = "countries/Seryldian.txt"
+TRO = "countries/Troll.txt"
+
+# Ionia
+ION = "countries/Ionia.txt"
+NIN = "countries/Ninja.txt"
+VAS = "countries/Vastaya.txt"
+
+# Noxus
+NOX = "countries/Noxus.txt"
+
+# Shurima
+SHU = "countries/Shurima.txt"
+
+# Others
+BIL = "countries/Bilgewater.txt"
+DEM = "countries/Demacia.txt"
+IXT = "countries/Ixtal.txt"
+PIL = "countries/Piltover.txt"
+SIS = "countries/Shadow_Isles.txt"
+TAR = "countries/Targon.txt"
+VOI = "countries/Void.txt"
+ZAU = "countries/Zaun.txt"

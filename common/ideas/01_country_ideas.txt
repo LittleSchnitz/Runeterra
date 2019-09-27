@@ -4,7 +4,7 @@
 
 ### Nation specific idea groups
 
-###_ideas = {
+avarosan_ideas = {
 	start = { #Common to give two modifiers
 
 	}
@@ -14,7 +14,7 @@
 	}
 
 	trigger = {
-		tag = ###
+		tag = AVA
 	}
 	free = yes		#will be added at load.
 
