@@ -1,0 +1,38 @@
+#Country Name: Please see filename.
+
+graphical_culture = inuitgfx
+
+color = {  }
+
+revolutionary_colors = {  }
+
+historical_score = 
+
+historical_idea_groups = {
+
+}
+
+historical_units = {
+
+}
+
+monarch_names = {
+	"Ashe #0" = -100
+	"Braum #0" = 0
+}
+
+leader_names = {
+
+}
+
+ship_names = {
+
+}
+
+army_names = {
+
+}
+
+fleet_names = {
+
+}

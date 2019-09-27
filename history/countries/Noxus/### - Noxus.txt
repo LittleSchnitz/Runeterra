@@ -1,0 +1,9 @@
+government = 
+#add_government_reform = 
+primary_culture = noxan_prime
+add_accepted_culture = south_eastern_noxian
+add_accepted_culture = nothern_noxian
+add_accepted_culture = southern_noxian
+religion =
+technology_group = 
+capital = 

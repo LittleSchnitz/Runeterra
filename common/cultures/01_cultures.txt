@@ -45,7 +45,7 @@ freljordian = { #Harsh Frozen Land
 		}
 	}
 
-	troll = {
+	troll = { #Trundle
 		primary = TAG
 
 
@@ -148,7 +148,7 @@ ionian_group = { #The First Lands
 		}
 	}
 
-	vastaya = { #Animal People
+	vastayan = { #Animal People
 		primary = TAG
 
 		male_names = {
@@ -233,7 +233,7 @@ ixtal = { #Perilous Eastern Jungles
 	graphical_culture = southamericagfx
 	second_graphical_culture northamericangfx
 
-	ix = { #Nameholder for implementation of names
+	ixtan = { #Nameholder for implementation of names
 		primary = TAG
 
 		male_names = {
