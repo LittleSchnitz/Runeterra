@@ -1,0 +1,42 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+### Nation specific idea groups
+
+###_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = ###
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
