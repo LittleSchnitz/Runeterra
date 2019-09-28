@@ -6,8 +6,9 @@
 # Freljord
 AVA = "countries/Avarosa.txt"
 FRE = "countries/Freljord.txt"
-HEB = "countries/Hearthborne.txt"
 FRO = "countries/Frostguard.txt"
+HEB = "countries/Hearthborne.txt"
+ICE = "countries/IceChildren.txt"
 SER = "countries/Seryldian.txt"
 TRO = "countries/Troll.txt"
 
@@ -17,6 +18,9 @@ NIN = "countries/Ninja.txt"
 VAS = "countries/Vastaya.txt"
 
 # Noxus
+BAS = "countries/Basilich.txt"
+DEL = "countries/Delverhold.txt"
+KIL = "countries/Kilgrove.txt"
 NOX = "countries/Noxus.txt"
 
 # Shurima
@@ -27,7 +31,7 @@ BIL = "countries/Bilgewater.txt"
 DEM = "countries/Demacia.txt"
 IXT = "countries/Ixtal.txt"
 PIL = "countries/Piltover.txt"
-SIS = "countries/Shadow_Isles.txt"
+SIS = "countries/ShadowIsles.txt"
 TAR = "countries/Targon.txt"
 VOI = "countries/Void.txt"
 ZAU = "countries/Zaun.txt"
