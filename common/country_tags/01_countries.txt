@@ -24,6 +24,8 @@ KIL = "countries/Kilgrove.txt"
 NOX = "countries/Noxus.txt"
 
 # Shurima
+NAS = "countries/Nashramae.txt"
+SHA = "countries/Shakkal.txt"
 SHU = "countries/Shurima.txt"
 
 # Others
