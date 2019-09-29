@@ -18,10 +18,10 @@ historical_units = {
 
 monarch_names = {
 	"Ashe #0" = -100
-	"Braum #0" = 0
 }
 
 leader_names = {
+	Braum
 
 }
 
