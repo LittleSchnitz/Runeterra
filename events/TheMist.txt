@@ -1,5 +1,0 @@
-namespace = The_Mist
-
-country_event{
-
-}

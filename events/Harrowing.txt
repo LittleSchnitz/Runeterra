@@ -1,0 +1,5 @@
+namespace = Harrowing
+
+country_event{
+
+}
