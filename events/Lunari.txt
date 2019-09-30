@@ -1,0 +1,5 @@
+Namespace = Lunari
+
+country_event{
+
+}
