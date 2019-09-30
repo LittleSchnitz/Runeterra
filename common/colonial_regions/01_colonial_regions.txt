@@ -22,7 +22,8 @@ colonial_west = {
 	}
 
 	provinces = {
-
+		1985 1986 1987 1988 1989 1990 1991 1992 1993 1994 1995 1996 1997 1998
+		1999 2000 2001 2002 2003 2004
 	}
 
 	#Specific
@@ -37,5 +38,34 @@ colonial_west = {
 			culture_group = demacian
 		}
 		name = "COLONIAL_WEST_Colonial_Demacia"
+	}
+}
+
+#Isles to the South-West
+colonial_south_west = {
+	color = { 0 0 0 }
+
+	#Random New World
+	tax_income = 2
+	native_size = 5
+	native_ferocity = 2
+	native_hostileness = 3
+
+
+	trade_goods = {
+		gold = 100
+	}
+
+	culture = {
+		demacian = 10
+	}
+
+	religion = {
+		
+	}
+
+	provinces = {
+		2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+		2021 2022 2023 2024 2025 2026 2027
 	}
 }
