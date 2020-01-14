@@ -2587,3 +2587,4 @@ province	red	green	blue	x	x
 2586	47	220	250	Province_2586	x
 2587	43	220	250	Province_2587	x
 2588	3	222	252	Province_2588	x
+2589	15	124	0	Province_2589	x
