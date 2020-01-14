@@ -10,7 +10,7 @@ random_new_world_region = {
 
 freljord_region = {
 	areas = {
-
+		avarosa_proper_area
 	}
 }
 
@@ -94,7 +94,13 @@ shadow_isles_region = {
 # Ionia                                #
 ########################################
 
-ionia_region = {
+ninja_region = {
+	areas = {
+
+	}
+}
+
+vastaya_region = {
 	areas = {
 
 	}
