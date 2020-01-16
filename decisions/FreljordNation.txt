@@ -6,8 +6,8 @@ country_decisions = {
 			is_playing_custom_nation = no
 			NOT = { exists = FRE }
 			OR = {
-				culture_group = freljordian
 				primary_culture = avarosian
+				culture_group = freljordian
 			}
 			#religion(group) = 
 			OR = {
@@ -23,11 +23,11 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
+				province_id = 1
+				province_id = 10
+				province_id = 40
+				province_id = 80
+				province_id = 100
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -41,18 +41,18 @@ country_decisions = {
 			is_at_war = no
 			OR = {
 				AND = {
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
+					owns_core_province = 1
+					owns_core_province = 10
+					owns_core_province = 40
+					owns_core_province = 80
+					owns_core_province = 100
 				}
 				AND = {
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
+					owns_or_vassal_of = 1
+					owns_or_vassal_of = 10
+					owns_or_vassal_of = 40
+					owns_or_vassal_of = 80
+					owns_or_vassal_of = 100
 				}
 			}
 		}
