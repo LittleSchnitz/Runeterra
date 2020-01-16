@@ -1,4 +1,0 @@
-Land Provinces: 1-2252, %1122, +2585
-Mountains & Wasteland Provinces: 2253-2265
-Ocean Provinces: 2266-2586, %2585, +1122
-Lake Provinces: 2587-2594
