@@ -2,18 +2,28 @@ l_english:
  #Freljord
  AVA:0 "Avarosa"
  FRE:0 "Freljord"
- HEB:0 "Hearthborne"
  FRO:0 "Frostguard"
+ HEB:0 "Hearthborne"
+ ICE:0 "Ice Children"
  SER:0 "Seryldian"
- TRO:0 "Troll"
+ TRO:0 "Troll Lands"
+ 
  #Ionia
  ION:0 "Ionia"
  NIN:0 "Ninja"
  VAS:0 "Vastaya"
+ 
  #Noxus
+ BAS:0 "Basilich"
+ DEL:0 "Delverhold"
+ KIL:0 "Kilgrove"
  NOX:0 "Noxus"
+ 
  #Shurima
+ NAS:0 "Nashramae"
+ SHA:0 "Shakkal"
  SHU:0 "Shurima"
+ 
  #Others
  BIL:0 "Bilgewater"
  DEM:0 "Demacia"

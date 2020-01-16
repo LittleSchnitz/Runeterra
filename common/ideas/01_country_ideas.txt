@@ -40,3 +40,854 @@ avarosan_ideas = {
 
 	}
 }
+
+freljordian_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = FRE
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+frostguardian_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = FRO
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+hearthborne_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = HEB
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+seryldian_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = SER
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+trollish_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = TRO
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+ionian_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = ION
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+ninja_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = NIN
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+vastayan_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = VAS
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+basilichan_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = BAS
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+delverhold_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = DEL
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+kilgrovean_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = KIL
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+noxian_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = NOX
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+nashramaen_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = NAS
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+shakkalan_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = SHA
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+shuriman_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = SHU
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+bilgewater_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = BIL
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+demacian_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = DEM
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+ixtal_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = IXT
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+piltover_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = PIL
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+shadow_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = SIS
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+targonian_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = TAR
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+void_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = VOI
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
+
+zaun_ideas = {
+	start = { #Common to give two modifiers
+
+	}
+
+	bonus = { #Common to give one modifier
+
+	}
+
+	trigger = {
+		tag = ZAU
+	}
+	free = yes		#will be added at load.
+
+	idea_1 = {
+
+	}
+	idea_2 = {
+
+	}
+	idea_3 = {
+
+	}
+	idea_4 = {
+
+	}
+	idea_5 = {
+
+	}
+	idea_6 = {
+
+	}
+	idea_7 = {
+
+	}
+}
