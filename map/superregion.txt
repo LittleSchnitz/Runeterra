@@ -5,11 +5,12 @@ valoran_superregion = {
 	demacia_region
 	noxus_region
 	nomansland_region
-	piltover_region
+	piltover_north_region
 }
 
 shurima_superregion = {
 	zaun_region
+	piltover_south_region
 	ixtal_region
 	void_region
 	shurima_region
@@ -17,7 +18,7 @@ shurima_superregion = {
 }
 
 island_groups_superregion = {
-	bilgewater = {
+	bilgewater_region
 	shadow_isles_region
 }
 

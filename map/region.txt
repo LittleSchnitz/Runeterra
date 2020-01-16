@@ -33,7 +33,7 @@ nomansland_region = {
 	}
 }
 
-piltover_region = {
+piltover_north_region = {
 	areas = {
 
 	}
@@ -44,6 +44,12 @@ piltover_region = {
 ########################################
 
 zaun_region = {
+	areas = {
+
+	}
+}
+
+piltover_south_region = {
 	areas = {
 
 	}

@@ -1,0 +1,37 @@
+l_english:
+ #Area
+ avarosa_proper_area: "Avarosa Proper"
+
+ #Region
+ freljord_region: "Freljord"
+ demacia_region: "Demacia"
+ noxus_region: "Noxus"
+ nomansland_region: "Barren Wastes"
+ piltover_north_region: "Piltover"
+ zaun_region: "Zaun"
+ piltover_south_region: "Piltover"
+ ixtal_region: "Ixtal"
+ void_region: "The Void"
+ shurima_region: "Shurima"
+ targon_region: "Targon"
+ bilgewater_region: "Bilgewater"
+ shadow_isles_region: "Shadow Isles"
+ ninja_region: "Ninja"
+ vastaya_region: "Vastaya"
+
+ #Superregion
+ valoran_superreion: "Valoran"
+ shurima_superregion: "Shurima"
+ island_groups_superregion: "The Isles"
+ ionia_superregion: "Ionia"
+ new_world_superregion: "Colonies"
+
+ #Continent
+ valoran: "Valoran"
+ shurima: "Shurima"
+ bilgewater: "Bilgewater"
+ shadow_isles: "Shadow Isles"
+ ionia: "Ionia"
+ colony_north: "Colonial North"
+ colony_south: "Colonial South"
+ ice_planes: "Ice Planes"
