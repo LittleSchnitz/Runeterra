@@ -8,12 +8,41 @@ random_new_world_region = {
 # Valoran                              #
 ########################################
 
-freljord_region = {
+sacred_freljord_region = {
 	areas = {
 		avarosa_proper_area
 	}
 }
 
+west_coast_freljord_region = {
+	areas = {
+
+	}
+}
+
+winters_claw_region = {
+	areas = {
+
+	}
+}
+
+south_freljord_region = {
+	areas = {
+
+	}
+}
+
+winterspike_region = {
+	areas = {
+
+	}
+}
+
+frostguard_citadel_region = {
+	areas = {
+
+	}
+}
 
 demacia_region = {
 	areas = {
@@ -21,7 +50,25 @@ demacia_region = {
 	}
 }
 
+ironspike_region = {
+	areas = {
+
+	}
+}
+
 noxus_region = {
+	areas = {
+
+	}
+}
+
+noxus_south_region = {
+	areas = {
+
+	}
+}
+
+noxus_east_region = {
 	areas = {
 
 	}
@@ -55,13 +102,25 @@ piltover_south_region = {
 	}
 }
 
+kumungu_region = {
+	areas = {
+
+	}
+}
+
 ixtal_region = {
 	areas = {
 
 	}
 }
 
-void_region = {
+icathia_region = {
+	areas = {
+
+	}
+}
+
+shurima_north_region = {
 	areas = {
 
 	}
@@ -69,6 +128,18 @@ void_region = {
 
 
 shurima_region = {
+	areas = {
+
+	}
+}
+
+shurima_south_region = {
+	areas = {
+
+	}
+}
+
+shurima_west_region = {
 	areas = {
 
 	}
@@ -100,18 +171,45 @@ shadow_isles_region = {
 # Ionia                                #
 ########################################
 
-ninja_region = {
+ionia_south_region = {
 	areas = {
 
 	}
 }
 
-vastaya_region = {
+ionia_region = {
 	areas = {
 
 	}
 }
 
+ionia_east_region = {
+	areas = {
+
+	}
+}
+
+shon_xan_region = {
+	areas = {
+
+	}
+}
+
+########################################
+# Colonies                             #
+########################################
+
+colonial_north_region = {
+	areas = {
+
+	}
+}
+
+colonial_south_region = {
+	areas = {
+
+	}
+}
 
 ########################################
 # Oceans                               #
