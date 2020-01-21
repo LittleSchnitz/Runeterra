@@ -78,55 +78,253 @@ west_coast_freljord_region = {
 
 winterspike_region = {
 	areas = {
-
+		winterspike_1_area
+		winterspike_2_area
+		winterspike_3_area
+		winterspike_4_area
+		winterspike_5_area
+		winterspike_6_area
+		winterspike_7_area
+		winterspike_8_area
+		winterspike_9_area
+		winterspike_10_area
+		winterspike_11_area
+		winterspike_12_area
+		winterspike_13_area
+		winterspike_14_area
+		winterspike_15_area
+		winterspike_16_area
+		winterspike_17_area
+		winterspike_18_area
+		winterspike_19_area
 	}
 }
 
 frostguard_citadel_region = {
 	areas = {
-
+		frostguard_citadel_1_area
+		frostguard_citadel_2_area
+		frostguard_citadel_3_area
+		frostguard_citadel_4_area
+		frostguard_citadel_5_area
+		frostguard_citadel_6_area
+		frostguard_citadel_7_area
+		frostguard_citadel_8_area
+		frostguard_citadel_9_area
+		frostguard_citadel_10_area
 	}
 }
 
 demacia_region = {
 	areas = {
-
+		demacia_1_area
+		demacia_2_area
+		demacia_3_area
+		demacia_4_area
+		demacia_5_area
+		demacia_6_area
+		demacia_7_area
+		demacia_8_area
+		demacia_9_area
+		demacia_10_area
+		demacia_11_area
+		demacia_12_area
+		demacia_13_area
+		demacia_14_area
+		demacia_15_area
+		demacia_16_area
+		demacia_17_area
 	}
 }
 
 ironspike_region = {
 	areas = {
-
+		ironspike_1_area
+		ironspike_2_area
+		ironspike_3_area
+		ironspike_4_area
+		ironspike_5_area
+		ironspike_6_area
+		ironspike_7_area
+		ironspike_8_area
+		ironspike_9_area
+		ironspike_10_area
+		ironspike_11_area
+		ironspike_12_area
+		ironspike_13_area
+		ironspike_14_area
+		ironspike_15_area
+		ironspike_16_area
+		ironspike_17_area
+		ironspike_18_area
+		ironspike_19_area
 	}
 }
 
 noxus_region = {
 	areas = {
-
+		noxus_1_area
+		noxus_2_area
+		noxus_3_area
+		noxus_4_area
+		noxus_5_area
+		noxus_6_area
+		noxus_7_area
+		noxus_8_area
+		noxus_9_area
+		noxus_10_area
+		noxus_11_area
+		noxus_12_area
+		noxus_13_area
+		noxus_14_area
+		noxus_15_area
+		noxus_16_area
+		noxus_17_area
+		noxus_18_area
+		noxus_19_area
+		noxus_20_area
+		noxus_21_area
+		noxus_22_area
 	}
 }
 
 noxus_south_region = {
 	areas = {
-
+		noxus_south_1_area
+		noxus_south_2_area
+		noxus_south_3_area
+		noxus_south_4_area
+		noxus_south_5_area
+		noxus_south_6_area
+		noxus_south_7_area
+		noxus_south_8_area
+		noxus_south_1_area
+		noxus_south_10_area
+		noxus_south_11_area
+		noxus_south_12_area
+		noxus_south_13_area
+		noxus_south_14_area
+		noxus_south_15_area
+		noxus_south_16_area
+		noxus_south_17_area
+		noxus_south_18_area
+		noxus_south_19_area
+		noxus_south_20_area
+		noxus_south_21_area
 	}
 }
 
 noxus_east_region = {
 	areas = {
-
+		noxus_east_1_area
+		noxus_east_2_area
+		noxus_east_3_area
+		noxus_east_4_area
+		noxus_east_5_area
+		noxus_east_6_area
+		noxus_east_7_area
+		noxus_east_8_area
+		noxus_east_9_area
+		noxus_east_10_area
+		noxus_east_11_area
+		noxus_east_12_area
+		noxus_east_13_area
+		noxus_east_14_area
+		noxus_east_15_area
+		noxus_east_16_area
+		noxus_east_17_area
+		noxus_east_18_area
+		noxus_east_19_area
+		noxus_east_20_area
+		noxus_east_21_area
+		noxus_east_22_area
+		noxus_east_23_area
+		noxus_east_24_area
+		noxus_east_25_area
+		noxus_east_26_area
+		noxus_east_27_area
+		noxus_east_28_area
+		noxus_east_29_area
+		noxus_east_30_area
 	}
 }
 
 nomansland_region = {
 	areas = {
-
+		nomansland_1_area
+		nomansland_2_area
+		nomansland_3_area
+		nomansland_4_area
+		nomansland_5_area
+		nomansland_6_area
+		nomansland_7_area
+		nomansland_8_area
+		nomansland_9_area
+		nomansland_10_area
+		nomansland_11_area
+		nomansland_12_area
+		nomansland_13_area
+		nomansland_14_area
+		nomansland_15_area
+		nomansland_16_area
+		nomansland_17_area
+		nomansland_18_area
+		nomansland_19_area
+		nomansland_20_area
+		nomansland_21_area
+		nomansland_22_area
+		nomansland_23_area
+		nomansland_24_area
+		nomansland_25_area
+		nomansland_26_area
+		nomansland_27_area
+		nomansland_28_area
+		nomansland_29_area
+		nomansland_30_area
+		nomansland_31_area
+		nomansland_32_area
+		nomansland_33_area
+		nomansland_34_area
+		nomansland_35_area
+		nomansland_36_area
+		nomansland_37_area
+		nomansland_38_area
+		nomansland_39_area
+		nomansland_40_area
+		nomansland_41_area
+		nomansland_42_area
+		nomansland_43_area
+		nomansland_44_area
+		nomansland_45_area
+		nomansland_46_area
+		nomansland_47_area
+		nomansland_48_area
+		nomansland_49_area
+		nomansland_50_area
+		nomansland_51_area
+		nomansland_52_area
+		nomansland_53_area
 	}
 }
 
 piltover_north_region = {
 	areas = {
-
+		piltover_north_1_area
+		piltover_north_2_area
+		piltover_north_3_area
+		piltover_north_4_area
+		piltover_north_5_area
+		piltover_north_6_area
+		piltover_north_7_area
+		piltover_north_8_area
+		piltover_north_9_area
+		piltover_north_10_area
+		piltover_north_11_area
+		piltover_north_12_area
+		piltover_north_13_area
+		piltover_north_14_area
+		piltover_north_15_area
+		piltover_north_16_area
 	}
 }
 
@@ -136,62 +334,240 @@ piltover_north_region = {
 
 zaun_region = {
 	areas = {
-
+		zaun_1_area
+		zaun_2_area
+		zaun_3_area
+		zaun_4_area
+		zaun_5_area
+		zaun_6_area
 	}
 }
 
 piltover_south_region = {
 	areas = {
-
+		piltover_south_1_area
+		piltover_south_2_area
+		piltover_south_3_area
+		piltover_south_4_area
+		piltover_south_5_area
+		piltover_south_6_area
+		piltover_south_7_area
+		piltover_south_8_area
+		piltover_south_9_area
+		piltover_south_10_area
+		piltover_south_11_area
+		piltover_south_12_area
 	}
 }
 
 kumungu_region = {
 	areas = {
-
+		kumungu_1_area
+		kumungu_2_area
+		kumungu_3_area
+		kumungu_4_area
+		kumungu_5_area
+		kumungu_6_area
+		kumungu_7_area
+		kumungu_8_area
+		kumungu_9_area
+		kumungu_10_area
+		kumungu_11_area
+		kumungu_12_area
+		kumungu_13_area
+		kumungu_14_area
+		kumungu_15_area
+		kumungu_16_area
+		kumungu_17_area
+		kumungu_18_area
+		kumungu_19_area
+		kumungu_20_area
+		kumungu_21_area
 	}
 }
 
 ixtal_region = {
 	areas = {
-
+		ixtal_1_area
+		ixtal_2_area
+		ixtal_3_area
+		ixtal_4_area
+		ixtal_5_area
+		ixtal_6_area
+		ixtal_7_area
+		ixtal_8_area
+		ixtal_9_area
+		ixtal_10_area
+		ixtal_11_area
+		ixtal_12_area
+		ixtal_13_area
+		ixtal_14_area
+		ixtal_15_area
+		ixtal_16_area
+		ixtal_17_area
+		ixtal_18_area
+		ixtal_19_area
+		ixtal_20_area
+		ixtal_21_area
+		ixtal_22_area
+		ixtal_23_area
+		ixtal_24_area
+		ixtal_25_area
+		ixtal_26_area
+		ixtal_27_area
+		ixtal_28_area
+		ixtal_29_area
+		ixtal_30_area
+		ixtal_31_area
 	}
 }
 
 icathia_region = {
 	areas = {
-
+		icathai_1_area
+		icathai_2_area
+		icathai_3_area
+		icathai_4_area
+		icathai_5_area
+		icathai_6_area
+		icathai_7_area
+		icathai_8_area
+		icathai_9_area
+		icathai_10_area
+		icathai_11_area
+		icathai_12_area
+		icathai_13_area
+		icathai_14_area
+		icathai_15_area
 	}
 }
 
 shurima_north_region = {
 	areas = {
-
+		shurima_north_1_area
+		shurima_north_2_area
+		shurima_north_3_area
+		shurima_north_4_area
+		shurima_north_5_area
+		shurima_north_6_area
+		shurima_north_7_area
+		shurima_north_8_area
+		shurima_north_9_area
+		shurima_north_10_area
+		shurima_north_11_area
+		shurima_north_12_area
+		shurima_north_13_area
+		shurima_north_14_area
+		shurima_north_15_area
+		shurima_north_16_area
+		shurima_north_17_area
+		shurima_north_18_area
+		shurima_north_19_area
+		shurima_north_20_area
+		shurima_north_21_area
+		shurima_north_22_area
+		shurima_north_23_area
+		shurima_north_24_area
 	}
 }
 
 
 shurima_region = {
 	areas = {
-
+		shurima_1_area
+		shurima_2_area
+		shurima_3_area
+		shurima_4_area
+		shurima_5_area
+		shurima_6_area
+		shurima_7_area
+		shurima_8_area
+		shurima_9_area
+		shurima_10_area
+		shurima_11_area
+		shurima_12_area
+		shurima_13_area
+		shurima_14_area
+		shurima_15_area
+		shurima_16_area
+		shurima_17_area
+		shurima_18_area
+		shurima_19_area
+		shurima_20_area
+		shurima_21_area
+		shurima_22_area
+		shurima_23_area
+		shurima_24_area
+		shurima_25_area
+		shurima_26_area
+		shurima_27_area
+		shurima_28_area
+		shurima_29_area
+		shurima_30_area
+		shurima_31_area
+		shurima_32_area
+		shurima_33_area
+		shurima_34_area
+		shurima_35_area
+		shurima_36_area
+		shurima_37_area
 	}
 }
 
 shurima_south_region = {
 	areas = {
-
+		shurima_south_1_area
+		shurima_south_2_area
+		shurima_south_3_area
+		shurima_south_4_area
+		shurima_south_5_area
+		shurima_south_6_area
+		shurima_south_7_area
+		shurima_south_8_area
+		shurima_south_9_area
+		shurima_south_10_area
+		shurima_south_11_area
+		shurima_south_12_area
+		shurima_south_13_area
+		shurima_south_14_area
 	}
 }
 
 shurima_west_region = {
 	areas = {
-
+		shurima_west_1_area
+		shurima_west_2_area
+		shurima_west_3_area
+		shurima_west_4_area
+		shurima_west_5_area
+		shurima_west_6_area
+		shurima_west_7_area
+		shurima_west_8_area
+		shurima_west_1_area
+		shurima_west_10_area
+		shurima_west_11_area
+		shurima_west_12_area
 	}
 }
 
 targon_region = {
 	areas = {
-
+		targon_1_area
+		targon_2_area
+		targon_3_area
+		targon_4_area
+		targon_5_area
+		targon_6_area
+		targon_7_area
+		targon_8_area
+		targon_9_area
+		targon_10_area
+		targon_11_area
+		targon_12_area
+		targon_13_area
+		targon_14_area
+		targon_15_area
+		targon_16_area
 	}
 }
 
@@ -201,13 +577,30 @@ targon_region = {
 
 bilgewater_region = {
 	areas = {
-
+		bilgewater_1_area
+		bilgewater_2_area
+		bilgewater_3_area
+		bilgewater_4_area
+		bilgewater_5_area
 	}
 }
 
 shadow_isles_region = {
 	areas = {
-
+		shadow_1_area
+		shadow_2_area
+		shadow_3_area
+		shadow_4_area
+		shadow_5_area
+		shadow_6_area
+		shadow_7_area
+		shadow_8_area
+		shadow_9_area
+		shadow_10_area
+		shadow_11_area
+		shadow_12_area
+		shadow_13_area
+		shadow_14_area
 	}
 }
 
@@ -217,25 +610,114 @@ shadow_isles_region = {
 
 ionia_south_region = {
 	areas = {
-
+		ionia_south_1_area
+		ionia_south_2_area
+		ionia_south_3_area
+		ionia_south_4_area
+		ionia_south_5_area
+		ionia_south_6_area
+		ionia_south_7_area
+		ionia_south_8_area
+		ionia_south_9_area
+		ionia_south_10_area
+		ionia_south_11_area
+		ionia_south_12_area
+		ionia_south_13_area
+		ionia_south_14_area
+		ionia_south_15_area
+		ionia_south_16_area
+		ionia_south_17_area
+		ionia_south_18_area
 	}
 }
 
 ionia_region = {
 	areas = {
-
+		ionia_1_area
+		ionia_2_area
+		ionia_3_area
+		ionia_4_area
+		ionia_5_area
+		ionia_6_area
+		ionia_7_area
+		ionia_8_area
+		ionia_9_area
+		ionia_10_area
+		ionia_11_area
+		ionia_12_area
+		ionia_13_area
+		ionia_14_area
+		ionia_15_area
+		ionia_16_area
+		ionia_17_area
+		ionia_18_area
+		ionia_19_area
+		ionia_20_area
+		ionia_21_area
+		ionia_22_area
+		ionia_23_area
+		ionia_24_area
+		ionia_25_area
+		ionia_26_area
+		ionia_27_area
+		ionia_28_area
+		ionia_29_area
+		ionia_30_area
+		ionia_31_area
+		ionia_32_area
+		ionia_33_area
+		ionia_34_area
+		ionia_35_area
+		ionia_36_area
+		ionia_37_area
+		ionia_38_area
+		ionia_39_area
+		ionia_40_area
+		ionia_41_area
+		ionia_42_area
+		ionia_43_area
+		ionia_44_area
 	}
 }
 
 ionia_east_region = {
 	areas = {
-
+		ionia_east_1_area
+		ionia_east_2_area
+		ionia_east_3_area
+		ionia_east_4_area
+		ionia_east_5_area
+		ionia_east_6_area
+		ionia_east_7_area
+		ionia_east_8_area
+		ionia_east_9_area
+		ionia_east_10_area
+		ionia_east_11_area
+		ionia_east_12_area
+		ionia_east_13_area
+		ionia_east_14_area
+		ionia_east_15_area
+		ionia_east_16_area
+		ionia_east_17_area
 	}
 }
 
 shon_xan_region = {
 	areas = {
-
+		shon_xan_1_area
+		shon_xan_2_area
+		shon_xan_3_area
+		shon_xan_4_area
+		shon_xan_5_area
+		shon_xan_6_area
+		shon_xan_7_area
+		shon_xan_8_area
+		shon_xan_1_area
+		shon_xan_10_area
+		shon_xan_11_area
+		shon_xan_12_area
+		shon_xan_13_area
+		shon_xan_14_area
 	}
 }
 
