@@ -1,0 +1,7 @@
+#Zaun Ownership
+union = {
+	first = PIL
+	second = ZAU
+	start_date = 1386.1.8
+	end_date = 9999.9.9
+}
