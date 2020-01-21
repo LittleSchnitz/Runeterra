@@ -1907,7 +1907,7 @@ province;red;green;blue;x;x
 1906;79;120;32;Province_1906;x
 1907;147;54;255;Province_1907;x
 1908;147;50;128;Province_1908;x
-1909;147;222;218;Province_1909;x
+1909;147;222;218;Province_1909;Province between 650, 651, 652, 653 & 654, in Noxus
 1910;78;112;32;Province_1910;x
 1911;70;116;126;Province_1911;x
 1912;19;48;64;Province_1912;x
@@ -2587,3 +2587,6 @@ province;red;green;blue;x;x
 2586;47;220;250;Province_2586;x
 2587;43;220;250;Province_2587;x
 2588;3;222;252;Province_2588;x
+2589:15;124;0;Province_2589;Effectively 1909, Ionia
+2590;77;251;233;Province_2590;Piltover South
+2591;152;90;7;Province_2291;Brown 1067, Piltover south
