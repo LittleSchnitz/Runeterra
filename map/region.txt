@@ -727,13 +727,22 @@ shon_xan_region = {
 
 colonial_north_region = {
 	areas = {
-
+		colonial_north_1_area
+		colonial_north_2_area
+		colonial_north_3_area
+		colonial_north_4_area
+		colonial_north_5_area
 	}
 }
 
 colonial_south_region = {
 	areas = {
-
+		colonial_south_1_area
+		colonial_south_2_area
+		colonial_south_3_area
+		colonial_south_4_area
+		colonial_south_5_area
+		colonial_south_6_area
 	}
 }
 
