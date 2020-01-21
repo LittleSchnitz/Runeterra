@@ -1,0 +1,16 @@
+# Order here is the priority for taking them, if trigger is true.
+
+AVA = {
+	NOT = {
+		exists = FRE
+	}
+}
+
+FRE = {
+	always = yes
+}
+
+BIL = {
+	is_year = 1500
+}
+
