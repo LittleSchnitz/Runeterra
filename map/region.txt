@@ -10,25 +10,69 @@ random_new_world_region = {
 
 sacred_freljord_region = {
 	areas = {
-		avarosa_proper_area
-	}
-}
-
-west_coast_freljord_region = {
-	areas = {
-
-	}
-}
-
-winters_claw_region = {
-	areas = {
-
+		sacred_freljord_1_area
+		sacred_freljord_2_area
+		sacred_freljord_3_area
+		sacred_freljord_4_area
+		sacred_freljord_5_area
+		sacred_freljord_6_area
+		sacred_freljord_7_area
+		sacred_freljord_8_area
+		sacred_freljord_9_area
+		sacred_freljord_10_area
+		sacred_freljord_11_area
+		sacred_freljord_12_area
+		sacred_freljord_13_area
 	}
 }
 
 south_freljord_region = {
 	areas = {
+		freljord_south_1_area
+		freljord_south_2_area
+		freljord_south_3_area
+		freljord_south_4_area
+		freljord_south_5_area
+		freljord_south_6_area
+		freljord_south_7_area
+		freljord_south_8_area
+		freljord_south_9_area
+		freljord_south_10_area
+		freljord_south_11_area
+	}
+}
 
+winters_claw_region = {
+	areas = {
+		winter_claw_1_area
+		winter_claw_2_area
+		winter_claw_3_area
+		winter_claw_4_area
+		winter_claw_5_area
+		winter_claw_6_area
+		winter_claw_7_area
+		winter_claw_8_area
+		winter_claw_9_area
+	}
+}
+
+west_coast_freljord_region = {
+	areas = {
+		freljord_west_1_area
+		freljord_west_2_area
+		freljord_west_3_area
+		freljord_west_4_area
+		freljord_west_5_area
+		freljord_west_6_area
+		freljord_west_7_area
+		freljord_west_8_area
+		freljord_west_9_area
+		freljord_west_10_area
+		freljord_west_11_area
+		freljord_west_12_area
+		freljord_west_13_area
+		freljord_west_14_area
+		freljord_west_15_area
 	}
 }
 
