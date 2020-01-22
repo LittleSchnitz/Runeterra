@@ -749,3 +749,21 @@ colonial_south_region = {
 ########################################
 # Oceans                               #
 ########################################
+
+ocean_region = {
+	areas = {
+		ocean_edges_area
+		colony_north_area
+		freljord_north_area
+		freljord_south_area
+		freljord_east_area
+		noxus_east_area
+		piltover_inner_area
+		shurima_noxus_inner_area
+		shurima_west_area
+		shurima_south_area
+		shurima_east_area
+		shadow_ocean_area
+		ionia_ocean_area
+	}
+}
