@@ -23,11 +23,9 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
+				province_id = 522
+				province_id = 694
+				province_id = 906
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -41,18 +39,14 @@ country_decisions = {
 			is_at_war = no
 			OR = {
 				AND = {
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
+					owns_core_province = 522 #The Delverhold
+					owns_core_province = 694 #The Immortal Bastion
+					owns_core_province = 906 #Basilich
 				}
 				AND = {
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
+					owns_or_vassal_of = 522
+					owns_or_vassal_of = 694
+					owns_or_vassal_of = 906
 				}
 			}
 		}
@@ -65,12 +59,32 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
-			#noxus_region = { #Can first be done when regions have been made
-				#limit = {
-					#NOT = { owned_by = ROOT }
-				#}
-				#add_permanent_claim = NOX
-			#}
+			AND = {
+				ironspike_region = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = NOX
+				}
+				noxus_region = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = NOX
+				}
+				noxus_south_region = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = NOX
+				}
+				noxus_east_region = {
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = NOX
+				}
+			}
 			add_prestige = 25
 			set_country_flag = formed_noxus_flag
 		}
