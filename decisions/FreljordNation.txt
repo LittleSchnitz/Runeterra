@@ -13,21 +13,26 @@ country_decisions = {
 			OR = {
 				AND = {
 					ai = no
-					num_of_cities = 5
+					num_of_cities = 10
 				}
 				AND = {
 					ai = yes
-					num_of_cities = 7
+					num_of_cities = 15
 			}
 			is_colonial_nation = no
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 1
-				province_id = 10
-				province_id = 40
-				province_id = 80
-				province_id = 100
+				province_id = 2
+				province_id = 33
+				province_id = 54
+				province_id = 86
+				province_id = 154
+				province_id = 160
+				province_id = 158
+				province_id = 194
+				province_id = 260
+				province_id = 275
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -41,18 +46,28 @@ country_decisions = {
 			is_at_war = no
 			OR = {
 				AND = {
-					owns_core_province = 1
-					owns_core_province = 10
-					owns_core_province = 40
-					owns_core_province = 80
-					owns_core_province = 100
+					owns_core_province = 2 #Frostheld
+					owns_core_province = 33 #Valar's Hollow
+					owns_core_province = 54 #Glaserport
+					owns_core_province = 86 #Rakelstake
+					owns_core_province = 154 #Village of the Ice Children
+					owns_core_province = 160 #Vathcaer
+					owns_core_province = 158 #Yadulsk
+					owns_core_province = 194 #Naljaäg /Muligvis 197
+					owns_core_province = 260 #Founding Village
+					owns_core_province = 275 #The Frostguard Citadel
 				}
 				AND = {
-					owns_or_vassal_of = 1
-					owns_or_vassal_of = 10
-					owns_or_vassal_of = 40
-					owns_or_vassal_of = 80
-					owns_or_vassal_of = 100
+					owns_or_vassal_of = 2
+					owns_or_vassal_of = 33
+					owns_or_vassal_of = 54
+					owns_or_vassal_of = 86
+					owns_or_vassal_of = 154
+					owns_or_vassal_of = 160
+					owns_or_vassal_of = 158
+					owns_or_vassal_of = 194
+					owns_or_vassal_of = 260
+					owns_or_vassal_of = 275
 				}
 			}
 		}
@@ -65,12 +80,12 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
-			#freljord_region = { #Can first be done when regions have been made
-				#limit = {
-					#NOT = { owned_by = ROOT }
-				#}
-				#add_permanent_claim = FRE
-			#}
+			freljord_superregion = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_permanent_claim = FRE
+			}
 			add_prestige = 25
 			set_country_flag = formed_freljord_flag
 		}
