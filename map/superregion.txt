@@ -1,12 +1,15 @@
 # A region can only belong to one super region.
 
-valoran_superregion = {
+freljord_superregion = {
 	sacred_freljord_region
 	west_coast_freljord_region
 	winters_claw_region
 	south_freljord_region
 	winterspike_region
 	frostguard_citadel_region
+}
+
+south_valoran_superregion = {
 	demacia_region
 	ironspike_region
 	noxus_region
@@ -16,12 +19,15 @@ valoran_superregion = {
 	piltover_north_region
 }
 
-shurima_superregion = {
+east_shurima_superregion = {
 	zaun_region
 	piltover_south_region
 	kumungu_region
 	ixtal_region
 	icathia_region
+}
+
+shurima_superregion = {
 	shurima_north_region
 	shurima_region
 	shurima_south_region

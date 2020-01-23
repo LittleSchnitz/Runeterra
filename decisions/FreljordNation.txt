@@ -80,6 +80,12 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
+			sacred_freljord_region = {
+				limit = {
+					NOT = { owned_by = ROOT }
+				}
+				add_core = FRE
+			}
 			freljord_superregion = {
 				limit = {
 					NOT = { owned_by = ROOT }
