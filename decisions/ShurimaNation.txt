@@ -42,18 +42,20 @@ country_decisions = {
 			is_at_war = no
 			OR = {
 				AND = {
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
+					owns_core_province = 1507
+					owns_core_province = 1392
+					owns_core_province = 1396
+					owns_core_province = 1559
+					owns_core_province = 1699
+					owns_core_province = 1753
 				}
 				AND = {
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
+					owns_or_vassal_of = 1507
+					owns_or_vassal_of = 1392
+					owns_or_vassal_of = 1396
+					owns_or_vassal_of = 1559
+					owns_or_vassal_of = 1699
+					owns_or_vassal_of = 1753
 				}
 			}
 		}
@@ -66,12 +68,32 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
-			#shurima_region = { #Can first be done when regions have been made
-				#limit = {
-					#NOT = { owned_by = ROOT }
-				#}
-				#add_permanent_claim = SHU
-			#}
+			AND = {
+				shurima_region = { #Can first be done when regions have been made
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = SHU
+				}
+				shurima_north_region = { #Can first be done when regions have been made
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = SHU
+				}
+				shurima_south_region = { #Can first be done when regions have been made
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = SHU
+				}
+				shurima_west_region = { #Can first be done when regions have been made
+					limit = {
+						NOT = { owned_by = ROOT }
+					}
+					add_permanent_claim = SHU
+				}
+			}
 			add_prestige = 25
 			set_country_flag = formed_shurima_flag
 		}
