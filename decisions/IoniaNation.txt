@@ -6,8 +6,8 @@ country_decisions = {
 			is_playing_custom_nation = no
 			NOT = { exists = ION }
 			OR = {
-				culture_group = 
-				primary_culture = 
+				culture_group = ionian_group
+				primary_culture = ionian
 			}
 			#religion(group) = 
 			OR = {
@@ -23,11 +23,10 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
+				province_id = 2181 #The Placidium of Navori
+				province_id = 2099 #Kinkou Monastery
+				province_id = 1975 #Hirana Monastery
+				province_id = 1870 #Temple of Pallas
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -41,18 +40,16 @@ country_decisions = {
 			is_at_war = no
 			OR = {
 				AND = {
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
-					owns_core_province = 
+					owns_core_province = 2181
+					owns_core_province = 2099
+					owns_core_province = 1975
+					owns_core_province = 1870 
 				}
 				AND = {
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
-					owns_or_vassal_of = 
+					owns_or_vassal_of = 2181
+					owns_or_vassal_of = 2099
+					owns_or_vassal_of = 1975
+					owns_or_vassal_of = 1870
 				}
 			}
 		}
@@ -65,12 +62,12 @@ country_decisions = {
 				}
 				set_government_rank = 3
 			}
-			#ionia_region = { #Can first be done when regions have been made
-				#limit = {
+			ionia_superregion = {
+				limit = {
 					#NOT = { owned_by = ROOT }
-				#}
-				#add_permanent_claim = ION
-			#}
+				}
+				add_permanent_claim = ION
+			}
 			add_prestige = 25
 			set_country_flag = formed_ionia_flag
 		}
