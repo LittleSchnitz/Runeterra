@@ -1,0 +1,47 @@
+country_decisions = {
+	construct_bob_canal = {
+		major = yes
+		potential = {
+			OR = {
+				ai = no
+				AND = {
+					ai = yes
+					treasury = 15000
+					owns_or_vassal_of = 1001
+				}
+			}
+			has_discovered = 1001
+			1001 = {
+				range = ROOT
+				NOT = { has_great_projekt = bob_canal }
+				NOT = { has_construction = canal }
+			}
+			adm_tech = 15
+		}
+		provinces_to_highlight = {
+			province_id = 1001
+			NOT = {
+				OR = {
+					owned_by = ROOT
+					owner = { vassal_of = ROOT }
+				}
+			}
+		}
+		allow = {
+			owns_or_vassal_of = 1001
+			is_subject = no
+			adm_tech = 20
+			treasury = 40000
+		}
+		effect = {
+			add_treasury -40000
+			1001 = {
+				add_great_project = bab_canal
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+}

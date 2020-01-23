@@ -6,8 +6,8 @@ country_decisions = {
 			is_playing_custom_nation = no
 			NOT = { exists = SHU }
 			OR = {
-				culture_group = 
-				primary_culture = 
+				culture_group = shurima
+				primary_culture = ancient
 			}
 			#religion(group) = 
 			OR = {
@@ -23,11 +23,12 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
-				province_id = 
+				province_id = 1507 #The Sun Disc
+				province_id = 1392 #Zirima
+				province_id = 1396 #Marrowmark
+				province_id = 1559 #The City of Gardens
+				province_id = 1699 #Nashramaekiiu
+				province_id = 1753 #Bel'zhun
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
