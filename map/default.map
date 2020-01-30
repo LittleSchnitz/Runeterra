@@ -31,7 +31,7 @@ sea_starts = {
 }
 
 lakes = {
-
+	2262 2265 2266 2268 2270 2272 2277 2278
 }
 
 force_coastal = {
