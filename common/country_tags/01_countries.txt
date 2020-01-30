@@ -4,12 +4,12 @@
 #NAT = "countries/Natives.txt"
 
 # Freljord
-AVA = "countries/Avarosa.txt"
+AVO = "countries/Avarosa.txt"
 FRE = "countries/Freljord.txt"
 FRO = "countries/Frostguard.txt"
 HEB = "countries/Hearthborne.txt"
-ICE = "countries/IceChildren.txt"
-SER = "countries/Seryldian.txt"
+ICC = "countries/IceChildren.txt"
+SRY = "countries/Seryldian.txt"
 TRO = "countries/Troll.txt"
 
 # Ionia
@@ -25,8 +25,8 @@ NOX = "countries/Noxus.txt"
 
 # Shurima
 NAS = "countries/Nashramae.txt"
-SHA = "countries/Shakkal.txt"
-SHU = "countries/Shurima.txt"
+SHK = "countries/Shakkal.txt"
+SUA = "countries/Shurima.txt"
 
 # Others
 BIL = "countries/Bilgewater.txt"
@@ -34,6 +34,6 @@ DEM = "countries/Demacia.txt"
 IXT = "countries/Ixtal.txt"
 PIL = "countries/Piltover.txt"
 SIS = "countries/ShadowIsles.txt"
-TAR = "countries/Targon.txt"
+TAO = "countries/Targon.txt"
 VOI = "countries/Void.txt"
 ZAU = "countries/Zaun.txt"
