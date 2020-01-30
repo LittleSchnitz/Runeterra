@@ -9,7 +9,7 @@ FRE = "countries/Freljord.txt"
 FRO = "countries/Frostguard.txt"
 HEB = "countries/Hearthborne.txt"
 ICC = "countries/IceChildren.txt"
-SRY = "countries/Seryldian.txt"
+SRY = "countries/Seryldia.txt"
 TRO = "countries/Troll.txt"
 
 # Ionia
