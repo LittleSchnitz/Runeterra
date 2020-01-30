@@ -65,6 +65,14 @@ ionia_ocean_area = {
 	2405 2406 2407 2408 2409 2410 2411 2412 2413 2414
 }
 
+#Lakes:
+#Listed by themselves in order to be easier to remove if needed.
+
+
+########################################
+#Land Areas:                           #	
+# A land area is 3 - 10 provinces      #
+########################################
 ########################################
 # Sacred Freljord                      #
 ########################################

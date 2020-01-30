@@ -752,7 +752,7 @@ colonial_south_region = {
 
 ocean_region = {
 	areas = {
-		ocean_edges_area
+		#ocean_edges_area
 		colony_north_area
 		freljord_north_area
 		freljord_south_area
