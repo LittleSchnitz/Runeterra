@@ -1,5 +1,5 @@
 country_decisions = {
-	construct_bob_canal = {
+	construct_piltover_canal = {
 		major = yes
 		potential = {
 			OR = {
@@ -13,7 +13,7 @@ country_decisions = {
 			has_discovered = 1001
 			1001 = {
 				range = ROOT
-				NOT = { has_great_projekt = bob_canal }
+				NOT = { has_great_projekt = piltover_canal }
 				NOT = { has_construction = canal }
 			}
 			adm_tech = 15
@@ -36,7 +36,7 @@ country_decisions = {
 		effect = {
 			add_treasury -40000
 			1001 = {
-				add_great_project = bab_canal
+				add_great_project = piltover_canal
 			}
 		}
 		ai_will_do = {
