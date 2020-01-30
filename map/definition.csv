@@ -551,7 +551,7 @@ province;red;green;blue;x;x
 550;215;210;43;Province_550;x
 551;93;222;112;Province_551;x
 552;97;112;0;Province_552;x
-553;90;182;178;Province_553;x
+553;90;182;176;Province_553;x
 554;208;138;0;Province_554;x
 555;96;104;64;Province_555;x
 556;101;40;192;Province_556;x
@@ -2061,7 +2061,7 @@ province;red;green;blue;x;x
 2060;222;69;44;Province_2060;x
 2061;199;134;173;Province_2061;x
 2062;14;100;192;Province_2062;x
-2063;24;57;119;Province_2063;x
+2063;25;25;119;Province_2063;x
 2064;11;68;128;Province_2064;x
 2065;140;74;0;Province_2065;x
 2066;8;144;64;Province_2066;x
@@ -2264,7 +2264,7 @@ province;red;green;blue;x;x
 2263;225;223;25;Province_2263;x
 2264;225;223;29;Province_2264;x
 2265;31;0;240;Province_2265;x
-2266;31;0;238;Province_2266;x
+2266;31;1;238;Province_2266;x
 2267;225;223;23;Province_2267;x
 2268;31;0;238;Province_2268;x
 2269;237;230;38;Province_2269;x
