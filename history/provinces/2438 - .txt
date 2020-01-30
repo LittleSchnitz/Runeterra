@@ -1,0 +1,9 @@
+#Ocean
+
+discorvered_by = freljordian
+discorvered_by = valoran
+discorvered_by = hextech
+discorvered_by = elementalist
+discorvered_by = southern
+discorvered_by = forgotten
+discorvered_by = ionian

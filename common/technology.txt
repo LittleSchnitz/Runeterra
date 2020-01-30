@@ -1,0 +1,46 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new technology, make sure they are uniquely named.
+
+
+# Groups must be defined BEFORE tables.
+
+#Nation Designer Cost is set to match triggers for starting institutions.
+
+groups = {
+	freljordian = {
+		start_level = 2
+		start_cost_modifier = 0.5
+	}
+	valoran = {
+		start_level = 3
+		start_cost_modifier = 0.25
+	}
+	hextech = {
+		start_level = 3
+		start_cost_modifier = 0
+	}
+	elementalist = {
+		start_level = 3
+		start_cost_modifier = 0.15
+		is_primitive = yes
+	}
+	southern = {
+		start_level = 2
+		start_cost_modifier = 0.4
+	}
+	forgotten = {
+		start_level = 1
+		start_cost_modifier = 0.5
+		is_primitive = yes
+	}
+	ionian = {
+		start_level = 2
+		start_cost_modifier = 0.35
+	}
+}
+
+tables = {
+	adm_tech = "technologies/adm.txt"
+	dip_tech = "technologies/dip.txt"
+	mil_tech = "technologies/mil.txt"
+}

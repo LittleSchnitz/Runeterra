@@ -1,0 +1,20 @@
+#
+
+add_core = BIL
+own = BIL
+controller = BIL
+culture = bilgewater
+hre = no
+base_tax = 10
+base_production = 10
+base_manpower = 10
+trade_goods = grain
+is_city = yes
+
+discorvered_by = freljordian
+discorvered_by = valoran
+discorvered_by = hextech
+discorvered_by = elementalist
+discorvered_by = southern
+discorvered_by = forgotten
+discorvered_by = ionian
