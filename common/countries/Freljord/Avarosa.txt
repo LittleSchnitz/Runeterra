@@ -2,9 +2,9 @@
 
 graphical_culture = inuitgfx
 
-color = {  }
+color = { 50 50 50 }
 
-revolutionary_colors = {  }
+revolutionary_colors = { 51 51 51 }
 
 historical_score = 100
 

@@ -2,9 +2,9 @@
 
 graphical_culture = southamericangfx
 
-color = {  }
+color = { 100 200 300 }
 
-revolutionary_colors = {  }
+revolutionary_colors = { 101 201 301 }
 
 historical_score = 1000
 

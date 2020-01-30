@@ -2,9 +2,9 @@
 
 graphical_culture = muslimgfx
 
-color = {  }
+color = { 500 600 700 }
 
-revolutionary_colors = {  }
+revolutionary_colors = { 501 601 701 }
 
 historical_score = 500
 

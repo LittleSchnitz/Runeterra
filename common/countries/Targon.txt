@@ -2,9 +2,9 @@
 
 graphical_culture = easterngfx
 
-color = {  }
+color = { 200 300 400 }
 
-revolutionary_colors = {  }
+revolutionary_colors = { 201 301 401 }
 
 historical_score = 750
 

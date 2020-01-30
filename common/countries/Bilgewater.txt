@@ -2,9 +2,9 @@
 
 graphical_culture = westerngfx
 
-color = {  }
+color = { 950 950 950 }
 
-revolutionary_colors = {  }
+revolutionary_colors = { 951 951 951 }
 
 historical_score = 1000
 

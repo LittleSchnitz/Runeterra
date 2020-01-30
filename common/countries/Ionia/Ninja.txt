@@ -2,9 +2,9 @@
 
 graphical_culture = asiangfx
 
-color = {  }
+color = { 450 450 450 }
 
-revolutionary_colors = {  }
+revolutionary_colors = { 451 451 451 }
 
 historical_score = 100
 
