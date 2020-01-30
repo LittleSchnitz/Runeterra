@@ -6,7 +6,7 @@ color = {  }
 
 revolutionary_colors = {  }
 
-historical_score = 
+historical_score = 500
 
 historical_idea_groups = {
 
