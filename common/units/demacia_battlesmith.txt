@@ -1,0 +1,12 @@
+#
+
+unit_type = 
+type = 
+
+maneuver = 
+offensive_morale = 
+defensive_morale = 
+offensive_fire = 
+defensive_fire = 
+offensive_shock = 
+defensive_shock = 
