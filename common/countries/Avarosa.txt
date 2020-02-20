@@ -18,10 +18,14 @@ historical_units = {
 
 monarch_names = {
 	"Ashe #0" = -100
+	"Braum #0" = 10
+	"Tryndamere #0" = 10
 }
 
 leader_names = {
-	Braum
+	"Babbling Bjerg"
+	"Scarmother Vrynna"
+	"Tarkaz the Tribeless"
 
 }
 

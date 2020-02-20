@@ -17,7 +17,19 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Aatrox #0" = 10
+	"Amumu #0" = 10
+	"Azir #0" = 10
+	"Jax #0" = 10
+	"Nasus #0" = 10
+	"Rammus #0" = 10
+	"Renekton #0" = 10
+	"Ryze #0" = 10
+	"Sivir #0" = -10
+	"Skarner #0" = 10
+	"Taliyah #0" = -10
+	"Xerath #0" = 10
+	"Zilean #0" = 10
 }
 
 leader_names = {

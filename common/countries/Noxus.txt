@@ -17,7 +17,23 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Alistar #0" = 10 #No current know residence, previous faction was Noxus
+	"Annie #0" = 10
+	"Cassiopeia #0" = 10
+	"Darius #0" = 10
+	"Draven #0" = 10
+	"Elise #0" = 10
+	"Katarina #0" = 10
+	"Kled #0" = 10
+	"LeBlanc #0" = 10
+	"Mordekaiser #0" = 10
+	"Riven #0" = 10
+	"Sion #0" = 10
+	"Swain #0" = 10
+	"Talon #0" = 10
+	"Vladimir #0" = 10
+
+	"Karthus #0" = 10
 }
 
 leader_names = {

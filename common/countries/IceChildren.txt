@@ -17,7 +17,10 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Sejuani #0" = -10
+	"Sylas #0" = 10
+	"Udyr #0" = 10
+	"Volibear #0" = 10
 }
 
 leader_names = {

@@ -17,7 +17,10 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Malphite #0" = 10
+	"Nidalee #0" = -10
+	"Qiyana #0" = -10
+	"Zyra #0" = -10
 }
 
 leader_names = {

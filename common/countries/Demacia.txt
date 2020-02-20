@@ -13,15 +13,39 @@ historical_idea_groups = {
 }
 
 historical_units = {
-
+	demacia_battlesmith
+	demacia_border_lookout
+	demacia_brightsteel_formation
+	demacia_brigthsteel_protector
+	demacia_dauntless_vanguard
+	demacia_dawnspeakers
+	#...
 }
 
 monarch_names = {
-	
+	"Fiora #0" = -10
+	"Galio #0" = 10
+	"Garen #0" = 10
+	"Jarvan #4" = 10
+	"Kayle #0" = -10
+	"Lucian #0" = 10
+	"Lux #0" = -10
+	"Morgana #0" = -10
+	"Nocturne #0" = 10
+	"Poppy #0" = -10
+	"Quin #0" = -10
+	"Senna #0" = -10
+	"Shyvana #0" = -10
+	"Sona #0" = -10
+	"Vayne #0" = -10
+	"Xin Zhao #0" = 10
 }
 
 leader_names = {
-
+	"Cithria of Cloudfield"
+	"Cithria the Bold"
+	"Senna"
+	"Laurent Chevalier"
 }
 
 ship_names = {

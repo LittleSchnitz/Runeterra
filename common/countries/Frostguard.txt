@@ -13,6 +13,8 @@ historical_idea_groups = {
 }
 
 historical_units = {
+	"Lissandra #0" = -10
+	"Nunu #0" = 10
 
 }
 

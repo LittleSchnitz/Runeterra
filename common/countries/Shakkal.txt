@@ -17,7 +17,7 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Shaco #0" = 10
 }
 
 leader_names = {

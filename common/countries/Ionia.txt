@@ -17,7 +17,24 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Ahri #0" = -10
+	"Akali #0" = -10
+	"Diana #0" = -10
+	"Irelia #0" = -10
+	"Ivern #0" = 10
+	"Jhin #0" = 10
+	"Karma #0" = -10
+	"Kayn #0" = 10
+	"Kennen #0" = 10
+	"Lee Sin #0" = 10
+	"Lulu #0" = -10
+	"Master Yi" = 10
+	"Shen #0" = 10
+	"Soraka #0" = -10
+	"Syndra #0" = -10
+	"Varus #0" = 10
+	"Yasuo #0" = 10
+	"Zed #0" = 10
 }
 
 leader_names = {

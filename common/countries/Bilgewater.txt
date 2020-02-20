@@ -17,7 +17,15 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Fizz #0" = 10
+	"Gangplank #0" = 10
+	"Graves #0" = 10
+	"Illoai #0" = -10
+	"Miss Fortune #0" = -10
+	"Nautilus #0" = 10
+	"Pyke #0" = 10
+	"Tahm Kench #0" = 10
+	"Twisted Fate #0" = 10
 }
 
 leader_names = {

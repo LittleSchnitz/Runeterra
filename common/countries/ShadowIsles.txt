@@ -17,7 +17,15 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Evelynn #0" = -10
+	"Fiddlesticks #0" = 10
+	"Hecarim #0" = 10
+	"Kalista #0" = 10
+	"Karthus #0" = 10
+	"Maokai #0" = 10
+	"Thresh #0" = 10
+	"Veigar #0" = 10
+	"Yorick #0" = 10
 }
 
 leader_names = {

@@ -17,7 +17,13 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Nami #0" = -10
+	"Neeko #0" = -10
+	"Rakan #0" = 10
+	"Rengar #0" = 10
+	"Sett #0" = 10
+	"Wukong #0" = 10
+	"Xayah #0" = -10
 }
 
 leader_names = {

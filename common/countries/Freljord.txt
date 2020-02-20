@@ -17,7 +17,21 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Anivia #0" = -10
+	"Ashe #0" = -10
+	"Brand #0" = 10
+	"Braum #0" = 10
+	"Gnar #0" = 10
+	"Gragas #0" = 10
+	"Lissandra #0" = -10
+	"Nunu #0" = 10
+	"Olaf #0" = 10
+	"Ornn" = 10
+	"Sejuani #0" = -10
+	"Trundle #0" = 10
+	"Tryndamere #0" = 10
+	"Udyr #0" = 10
+	"Volibear #0" = 10
 }
 
 leader_names = {

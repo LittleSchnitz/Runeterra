@@ -17,7 +17,15 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Aphelios #0" = 10
+	"Aurelion Sol #0" = 10 #No current know residence, know faction is Targon
+	"Bard #0" = 10 #Celestial
+	"Kindred #0" = -10
+	"Leona #0" = -10
+	"Pantheon #0" = 10
+	"Taric #0" = 10
+	"Zoe #0" = -10
+	"Yuumi #0" = -10
 }
 
 leader_names = {

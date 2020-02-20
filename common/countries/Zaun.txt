@@ -17,7 +17,18 @@ historical_units = {
 }
 
 monarch_names = {
-	
+	"Blitzcrank #0" = 10
+	"Dr.Mundo #0" = 10
+	"Ekko #0" = 10
+	"Janna #0" = 10
+	"Jinx #0" = 10
+	"Singed #0" = 10
+	"Twtich #0" = 10
+	"Urgot #0" = 10
+	"Viktor #0" = 10
+	"Warwick #0" = 10
+	"Zac #0" = 10
+	"Ziggs #0" = 10
 }
 
 leader_names = {
